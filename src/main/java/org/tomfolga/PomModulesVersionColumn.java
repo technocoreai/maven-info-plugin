@@ -61,7 +61,7 @@ public class PomModulesVersionColumn extends AbstractPomModulesColumn {
 
 		@Override
 		public String getDisplayName() {
-			return "Maven Modules (Version)";
+			return "Maven Versions";
 		}
 	}
 }
